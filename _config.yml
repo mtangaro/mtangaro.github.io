@@ -21,7 +21,7 @@ social:
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'News', link: '/news'}
-  - {name: 'Learn more', link: 'https://laniakea.readthedocs.io/en/latest/'}
+  - {name: 'Documentation', link: 'https://laniakea.readthedocs.io/en/latest/'}
   - {name: 'Deploy', link: 'https://cloud-90-147-75-117.cloud.ba.infn.it/login'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
