@@ -1,12 +1,10 @@
 # SITE CONFIGURATION
-title: Sleek # your site title
-author: GitHub User # You :P
+title: LANIAKEA
+author: mtangaro
 description: > # Meta description of Homepage
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/sleek" # the subpath of your site, e.g. /blog
-url: "https://janczizikow.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+  Automatic deployment of virtual Galaxy environments for life science
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://mtangaro.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
@@ -22,11 +20,14 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
+  - {name: 'News', link: '/news'}
+  - {name: 'Learn more', link: 'https://laniakea.readthedocs.io/en/latest/'}
+  - {name: 'Deploy', link: 'https://cloud-90-147-75-117.cloud.ba.infn.it/login'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  Modern Jekyll theme focused on speed performance &amp; SEO best practices
+  Automatic deployment of virtual Galaxy environments for life science
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
