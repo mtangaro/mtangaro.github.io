@@ -4,7 +4,7 @@ author: mtangaro
 description: > # Meta description of Homepage
   Automatic deployment of virtual Galaxy environments for life science
 baseurl: "/seek" # the subpath of your site, e.g. /blog
-url: "https://mtangaro.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mtangaro.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
